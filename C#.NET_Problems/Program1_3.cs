@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ValueTypes
+namespace CSharp.NETProblems
 {
 	public class Program1_3
 	{

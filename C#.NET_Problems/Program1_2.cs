@@ -1,5 +1,6 @@
 ﻿using System;
-namespace ValueTypes {
+namespace CSharp.NETProblems
+{
     class Program1_2
     {
         public static void Main(string[] args)

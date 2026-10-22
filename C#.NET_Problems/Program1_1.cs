@@ -1,7 +1,7 @@
 ﻿using System;
-namespace ValueTypes
+namespace CSharp.NETProblems
 {
-	public class Program1_1
+	class Program1_1
 	{
 		public static void Main(string[] args)
 		{

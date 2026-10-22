@@ -3,10 +3,14 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>ValueTypes_ReferenceTypes</RootNamespace>
+    <RootNamespace>CSharp.NETProblems</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ValueTypes.Program2_2</StartupObject>
+    <StartupObject>CSharp.NETProblems.Program1_3</StartupObject>
   </PropertyGroup>
 
 </Project>
+
+git remote set-url origin https://github.com/AadhiKabilan/CSharp.NET_Problems.git
+git remote -v
+git push -u origin master

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Diagnostics;
-namespace ValueTypes
+namespace CSharp.NETProblems
 {
 	public class Program2_1
 	{

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-namespace ValueTypes {
+namespace CSharp.NETProblems {
 	public class Program2_2
 	{
 		public static void Main(string[] args)
